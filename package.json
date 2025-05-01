@@ -1,0 +1,7 @@
+{
+    "name": "git-tools",
+    "private": true,
+    "scripts": {
+      "semantic-release": "semantic-release"
+    }
+}
