@@ -40,7 +40,22 @@ Within this directory, repositories are organized by the Git host, user/organiza
 
 ## Installation
 
-WIP
+1. Clone Repo
+```bash
+git clone git@github.com:Jellayy/git-tools.git ~/git/github.com/Jellayy/git-tools
+```
+
+2. Run Install Script
+```bash
+~/git/github.com/Jellayy/git-tools/install.sh
+```
+
+3. Reload your shell config
+```bash
+source .zshrc
+# or
+source .bashrc
+```
 
 ## Command Reference
 
